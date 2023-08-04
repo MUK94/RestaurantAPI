@@ -1,7 +1,6 @@
 # RestaurantAPI
 
-# Create virtual Environment using venv instead of pipenv which did not work with my machine 😴
-
+# Create virtual Environment 
 python -m venv _myenv
 
 # Activate it
